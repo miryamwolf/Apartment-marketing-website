@@ -21,7 +21,7 @@ Frontend: React
 Database: MongoDB
 Security: bcrypt + JWT
 ## Installation and Running
-#### Backend
+### Backend
 1. Navigate to the server folder:
 ```bash cd server`
 
@@ -34,7 +34,7 @@ MONGO_URI=your_mongodb_connection_string JWT_SECRET=your_jwt_secret_key
 4.Start the server:
 npm start
 
-#### Frontend
+### Frontend
 1. Navigate to the client folder:
 cd client
 
