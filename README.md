@@ -23,7 +23,7 @@ Security: bcrypt + JWT
 ## Installation and Running
 ### Backend
 1. Navigate to the server folder:
-```bash cd server`
+`bash cd server`
 
 2. Install dependencies:
 npm install
