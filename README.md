@@ -57,5 +57,5 @@ Admins can add, update, and delete properties.
 
 Clients can browse, filter, and view detailed property information.
 
-Contact
+## Contact
 For questions or support: miryam22858@gmail.com
